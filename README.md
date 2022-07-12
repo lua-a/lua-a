@@ -7,9 +7,9 @@
 </div>
 
 <div><br>
-  <a href="https://github.com/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lua-a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=D943FF"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-a&layout=compact&langs_count=7&theme=dracula&title_color=D943FF"/>
+  <a href="https://github.com/lua-a">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lua-          a&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=D943FF"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lua-a&layout=compact&langs_count=7&theme=dracula&title_color=D943FF"/></a>
 </div>
 
 <div><br>
